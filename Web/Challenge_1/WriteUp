@@ -1,0 +1,4 @@
+Il suffit de changer de langue une fois pour faire un premier appel à la fonction lang.php du site qui va se retrouver en paramètre GET de la méthode HTTP.
+Ensuite il suffit de modifier le fichier appeler par le chemin vers le fichier flag.
+Le chemin peut-être absolu ou relatif.
+Chemin relatif à utiliser "../flags/flag.txt".

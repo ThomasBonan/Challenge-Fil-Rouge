@@ -1,0 +1,6 @@
+Pour jouer ce challenge, il suffit de télécharger tous les fichiers du challenge, et de lancer les commandes suivantes lorsqu'on se trouve dans le répertoire du challenge :
+
+"docker build -t challenge_1 ."
+"docker run -p 80:80 challenge_1"
+
+Ensuite on se rend sur la page "localhost/index.php" et le challenge commence.

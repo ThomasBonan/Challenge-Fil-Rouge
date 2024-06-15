@@ -1,0 +1,2 @@
+Pour jouer ce Challenge il faut installer Go sur son système. Puis lorsqu'on se trouve dans le dossier du challenge lancer la commance "go build", 
+cela permettra de récupérer le fichier.exe du challenge et donc de rechercher le flag parmis ce dernier.
